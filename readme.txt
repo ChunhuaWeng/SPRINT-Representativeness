@@ -1,4 +1,4 @@
-The subfolders in this folders are listed below. If running the codes from scratch, please follow the order of folders provided here. Also note that for all data files (*.XPT) there are three versions: filename_E.XPT, filename_F.XPT and filename_G.XPT. These correspond to the NHANES cycles 2007-08, 2009-10 and 2011-12 respectively.
+The subfolders in this folders are listed below. If running the codes from scratch, please follow the order of folders provided here. Also note that for all data files (*.XPT) there are three versions: filename_E.XPT, filename_F.XPT and filename_G.XPT. These correspond to the NHANES cycles 2007-08, 2009-10 and 2011-12 respectively. Each subfolder contains its own readme file with descriptions of the files it contains.
 
 Data extraction from NHANES
 
